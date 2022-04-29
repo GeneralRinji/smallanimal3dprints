@@ -9,7 +9,7 @@ Rat Platform
 Usage
   Designed to be compatible with wire cages only.
   Use with PLA only. Do not use with wood fiber PLA, or another materia like ABS as these can be toxic. Use Brown PLA you you want a wood look.
-  Do not place on moving parts such as a cage door to prevent injury.
+  Do not place on moving parts such as a cage door to prevent injury. Do not use PLA plus. It has harmful additives.
   
 Specification
   Dimensions: 4 in width x 6 in length x 1 in height (10.16 cm x 15.24 cm x 2.54 cm)
